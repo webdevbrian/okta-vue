@@ -5,7 +5,7 @@ Exploration with VueJS and Okta to handle easy user authentication
 > [Okta](https://developer.okta.com/) has Authentication and User Management APIs that reduce development time with instant-on, scalable user infrastructure. Okta's intuitive API and expert support make it easy for developers to authenticate, manage, and secure users and roles in any application.
 
 ```bash
-git clone https://github.com/oktadeveloper/okta-vue-node-example.git
+git clone https://github.com/webdevbrian/okta-vue.git
 cd okta-vue-node-example
 npm install
 ```
