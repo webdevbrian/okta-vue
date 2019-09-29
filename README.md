@@ -6,7 +6,7 @@ Exploration with VueJS and Okta to handle easy user authentication
 
 ```bash
 git clone https://github.com/webdevbrian/okta-vue.git
-cd okta-vue-node-example
+cd okta-vue
 npm install
 ```
 
